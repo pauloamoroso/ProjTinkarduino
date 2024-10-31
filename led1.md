@@ -15,9 +15,6 @@
 
 
 
-
-
-
  https://raw.githubusercontent.com/pauloamoroso/ProjTinkarduino/main/img/led1.png
 
 
@@ -28,12 +25,15 @@
  Tinkercad arduino
 
 
-
  ![led1.png](https://raw.githubusercontent.com/pauloamoroso/ProjTinkarduino/main/img/led1.png)
 
 
 
 
 ! [ led1.png ]https://github.com/pauloamoroso/ProjTinkarduino/tree/main/img/led1.png
- 
+
+
+
+
+ ![led1](img/led1.png)
 
