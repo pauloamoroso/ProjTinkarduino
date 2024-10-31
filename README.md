@@ -11,3 +11,6 @@ programação correspondente.
 
 
 [ Tinkercad ] (https://www.tinkercad.com/)
+
+
+![led1.png](https://raw.githubusercontent.com/pauloamoroso/ProjTinkarduino/main/img/led1.png)
