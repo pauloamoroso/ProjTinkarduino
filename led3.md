@@ -7,7 +7,7 @@
 
 
  
-![led2](img/led2.png)
+![led1](img/led1.png)
 
 
 ##código
