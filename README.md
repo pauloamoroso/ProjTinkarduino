@@ -47,5 +47,5 @@ https://github.com/pauloamoroso/ProjTinkarduino/tree/main/img/led1.png
 
 
 
-![código3ledsh](cod/codigo3leds.h)
+![código] (cod/codigo3leds.h)
 
