@@ -2,7 +2,7 @@
  Tinkercad arduino
 
  ![led1](img/led1.png)
-![led3](img/led3.png)
+![led3](img/led2.png)
 
 
 ##código
