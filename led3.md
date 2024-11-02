@@ -10,7 +10,7 @@
 ![led1](img/led1.png)
 
 
-##código
+código
 ```cpp
 // Definição de constantes para os pinos LED
 
