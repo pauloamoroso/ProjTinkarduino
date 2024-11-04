@@ -44,11 +44,8 @@
 ## código
 
 
-// C++ code
-//this is commment
-//or
-// const int red =2
-
+código
+```cpp
 const int vermelho =2;
 
 void setup()
@@ -67,7 +64,6 @@ void loop()
   digitalWrite(vermelho, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 }
-
 
     
 }
