@@ -1,7 +1,7 @@
 
 
 
-## Exercício circuito 1 led- Tinkercad led1
+## Exercício circuito 2 leds- Tinkercad led2
 
 
  ![led2](img/led2.png)
