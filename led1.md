@@ -41,9 +41,6 @@
 
 
 
-## código
-
-
 código
 ```cpp
 const int vermelho =2;
