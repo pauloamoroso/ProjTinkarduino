@@ -4,7 +4,7 @@
 ## Exercício circuito 1 led- Tinkercad led1
 
 
- ![led1](img/led1.png)
+ ![led2](img/led2.png)
 
 
 
