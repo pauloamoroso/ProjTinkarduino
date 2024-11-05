@@ -1,13 +1,12 @@
-# ProjTinkarduino
- Tinkercad arduino
+## Exercício circuito 3 leds- Tinkercad led3
 
- ![led1](img/led1.png)
+
+ ![led3](img/led3.png)
 
 
 
 
  
-![led1](img/led1.png)
 
 
 código
