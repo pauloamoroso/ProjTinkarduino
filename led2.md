@@ -37,24 +37,36 @@
 
 código
 ```cpp
-const int vermelho =2;
+const int verde =4;
+const int azul =7;
+
 
 void setup()
 {
-  pinMode(vermelho, OUTPUT);
-  
  
+  
+  pinMode(verde, OUTPUT);
+  
+   pinMode(azul, OUTPUT);
 }
 
 void loop()
   {
   
+
 {
-  digitalWrite(vermelho, HIGH);
+  digitalWrite(verde, HIGH);
   delay(1000); // Wait for 1000 millisecond(s)
-  digitalWrite(vermelho, LOW);
+  digitalWrite(verde, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 }
-
-    
+  
+  {
+  digitalWrite(azul, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(azul, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+  
+  
 }
