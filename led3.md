@@ -9,6 +9,21 @@
  
 
 
+
+
+
+### HARDWARE
+> Arduino UNO R3
+
+> Led
+
+
+> Led
+
+> 220 ohm  Resistência
+
+
+
 código
 ```cpp
 // Definição de constantes para os pinos LED
