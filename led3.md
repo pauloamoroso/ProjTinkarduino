@@ -2,13 +2,9 @@
 
 
 
-
-![led3](img/esq3led.png)
-
+![led3](img/led3.png) 
 
 
-
- 
 
 
 
@@ -25,8 +21,9 @@
 
 ### Esquema circuito
 
- ![led3](img/3Leds.pdf)
 
+
+![led3](img/esq3led.png)
 
 
 
