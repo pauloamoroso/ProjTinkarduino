@@ -2,7 +2,7 @@
 
 ##  Projeto Circuitos no Tinkercad - arduino
 
-
+##  Pplataforma Tinkercad . Circuitos
 [Tinkercad](https://www.tinkercad.com/)
 
 
@@ -17,8 +17,8 @@ programação correspondente e o esquema do circuito.
 
 
 
-
 [ExercícioLED2](https://github.com/pauloamoroso/ProjTinkarduino/blob/main/led2.md)
+
 
 
 
