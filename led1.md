@@ -25,13 +25,15 @@
 
 > Led
 
-
 > Led
 
 > 220 ohm  Resistência
 
 
 
+## Esquema circuito
+
+![led1](img/esq1led.png)
 
 
 
@@ -41,7 +43,10 @@
 
 
 
-código
+
+## código
+
+
 ```cpp
 const int vermelho =2;
 
