@@ -25,7 +25,7 @@
 > 220 ohm  Resistência
 
 
-
+![led3](img/esq3led.png)
 
 
 
