@@ -14,7 +14,7 @@
 
 >  3 Led
 
-> 220 ohm  Resistência
+> 220 ohm 3 Resistências
 
 
 
