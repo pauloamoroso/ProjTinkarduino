@@ -8,7 +8,7 @@
 
 
 
-### HARDWARE
+## HARDWARE
 
 > Arduino UNO R3
 
@@ -18,7 +18,7 @@
 
 
 
-### Esquema circuito
+## Esquema circuito
 
 
 
@@ -48,7 +48,8 @@
 
 
 
-código
+## código
+
 ```cpp
 // Definição de constantes para os pinos LED
 
