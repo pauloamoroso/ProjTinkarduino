@@ -15,10 +15,9 @@
 ### HARDWARE
 > Arduino UNO R3
 
-> Led
+>  3 Led
 
-
-> Led
+> 1 kΩ Resistência
 
 > 220 ohm  Resistência
 
