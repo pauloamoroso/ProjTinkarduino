@@ -2,8 +2,7 @@
 
 ##  Projeto Circuitos no Tinkercad - arduino
 
-##  Pplataforma Tinkercad . Circuitos
-[Tinkercad](https://www.tinkercad.com/)
+##  Plataforma Tinkercad . Circuitos [Tinkercad](https://www.tinkercad.com/)
 
 
 
