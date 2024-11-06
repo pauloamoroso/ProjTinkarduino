@@ -3,7 +3,7 @@
 
 
 
-![led3] (img/esq3led.png)
+![led3] (img/esq3ledpng.png)
 
 
 
