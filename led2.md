@@ -17,15 +17,14 @@
 ### HARDWARE
 > Arduino UNO R3
 
-> Led
+> 2 Led
 
-
-> Led
 
 > 220 ohm  Resistência
 
 
-![led3](img/esq3led.png)
+
+![led2](img/esq2led.png)
 
 
 
