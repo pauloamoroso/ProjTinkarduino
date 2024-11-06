@@ -17,15 +17,6 @@ programação correspondente e o esquema do circuito.
 
 
 
-![led1.png](https://raw.githubusercontent.com/pauloamoroso/ProjTinkarduino/main/img/led1.png)
-
-
-
-
-https://github.com/pauloamoroso/ProjTinkarduino/tree/main/img/led1.png
-
-
-![led1](img/led1.png)
 
 
 
@@ -47,12 +38,6 @@ https://github.com/pauloamoroso/ProjTinkarduino/tree/main/img/led1.png
 
 
 
-
-
-
-
-![código](codigo3leds)
-![![código.h](codigo3leds.h)
 
 
 
