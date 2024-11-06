@@ -21,6 +21,12 @@
 
 > 220 ohm  Resistência
 
+### Esquema circuito
+
+ ![led3](img/3Leds.pdf)
+
+
+
 
 
 código
@@ -63,8 +69,5 @@ void loop() {
     delay(1000); // Espera 1000 milissegundos
   }
 }
-
-### Esquema circuito
- ![led3](img/3Leds.pdf)
 
 
