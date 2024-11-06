@@ -21,9 +21,32 @@
 
 > 220 ohm  Resistência
 
+
+
 ### Esquema circuito
 
  ![led3](img/3Leds.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
