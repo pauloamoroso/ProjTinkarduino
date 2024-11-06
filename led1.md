@@ -2,9 +2,6 @@
 
 
 
- Tinkercad arduino
-
-
 
 
 
