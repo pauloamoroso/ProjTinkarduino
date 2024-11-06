@@ -24,7 +24,19 @@
 
 
 
+
+
+
+## Esquema circuito
+
 ![led2](img/esq2led.png)
+
+
+
+
+
+
+
 
 
 
