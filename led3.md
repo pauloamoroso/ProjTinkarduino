@@ -1,21 +1,6 @@
 ## Exercício circuito 3 leds- Tinkercad led3
 
 
- ![led3](img/3Leds.pdf)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
  ![led3](img/led3.png)
@@ -24,8 +9,6 @@
 
 
  
-
-
 
 
 
@@ -80,4 +63,8 @@ void loop() {
     delay(1000); // Espera 1000 milissegundos
   }
 }
+
+### Esquema circuito
+ ![led3](img/3Leds.pdf)
+
 
