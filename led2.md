@@ -46,7 +46,7 @@
 
 
 
-código
+## código
 ```cpp
 const int verde =4;
 const int azul =7;
