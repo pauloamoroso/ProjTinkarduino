@@ -18,6 +18,14 @@ programação correspondente e o esquema do circuito.
 
 
 
+[ExercícioLED1](https://github.com/pauloamoroso/ProjTinkarduino/blob/main/led2.md)
+
+
+
+
+[ExercícioLED1](https://github.com/pauloamoroso/ProjTinkarduino/blob/main/led3.md)
+
+
 
 
 
