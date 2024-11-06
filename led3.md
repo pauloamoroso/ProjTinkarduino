@@ -1,7 +1,7 @@
 ## Exercício circuito 3 leds- Tinkercad led3
 
 
- ![led3](img/led3.pdf)
+ ![3led](img/3led.pdf)
 
 
 
