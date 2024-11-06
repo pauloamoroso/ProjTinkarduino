@@ -6,24 +6,25 @@
 
 
 
-## Vamos demonstrar a implementação dos circuito usando um, dois e três Leds, juntamente com a 
-
-## programação correspondente e  a apresentação dos esquema do circuito.
-
-
-[ExercícioLED1](https://github.com/pauloamoroso/ProjTinkarduino/blob/main/led1.md)
+## Vamos demonstrar a implementação dos circuito usando um, dois e três Leds,
+## juntamente com a programação correspondente e  a apresentação dos esquema 
+## do circuito.
 
 
 
-
-
-[ExercícioLED2](https://github.com/pauloamoroso/ProjTinkarduino/blob/main/led2.md)
+[ExercícioLed1](https://github.com/pauloamoroso/ProjTinkarduino/blob/main/led1.md)
 
 
 
 
 
-[ExercícioLED2](https://github.com/pauloamoroso/ProjTinkarduino/blob/main/led3.md)
+[ExercícioLed2](https://github.com/pauloamoroso/ProjTinkarduino/blob/main/led2.md)
+
+
+
+
+
+[ExercícioLed3](https://github.com/pauloamoroso/ProjTinkarduino/blob/main/led3.md)
 
 
 
