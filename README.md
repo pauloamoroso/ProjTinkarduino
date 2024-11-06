@@ -7,12 +7,11 @@
 
 
 
-## Vamos demonstrar a implementação do circuito usando um, dois e três LEDs, juntamente com a 
-programação correspondente.
+## Vamos demonstrar a implementação dos circuito usando um, dois e três LEDs, juntamente com a 
+programação correspondente e o esquema do circuito.
 
 
 [ExercícioLED1](https://github.com/pauloamoroso/ProjTinkarduino/blob/main/led1.md)
-
 
 
 
