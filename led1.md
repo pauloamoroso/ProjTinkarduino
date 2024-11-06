@@ -18,13 +18,12 @@
 
 
 ### HARDWARE
+
 > Arduino UNO R3
 
-> Led
+> 1 Led
 
-> Led
-
-> 220 ohm  Resistência
+> 220 ohm 1 Resistência
 
 
 
