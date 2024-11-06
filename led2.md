@@ -14,13 +14,12 @@
 
 
 
-### HARDWARE
+## HARDWARE
 > Arduino UNO R3
 
 > 2 Led
 
-
-> 220 ohm  Resistência
+> 220 ohm  2 Resistências
 
 
 
@@ -47,6 +46,7 @@
 
 
 ## código
+
 ```cpp
 const int verde =4;
 const int azul =7;
